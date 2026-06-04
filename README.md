@@ -11,7 +11,7 @@ An end-to-end Machine Learning web application designed to predict and analyze l
 
 ## 🚀 Quick Access
 
-[![Launch App](https://img.shields.io/badge/🚀_Launch_App-Streamlit_Cloud-0072ff?style=flat-for-the-badge)](#)
+[![Launch App](https://img.shields.io/badge/🚀_Launch_App-Streamlit_Cloud-0072ff?style=flat-for-the-badge)](https://claritycredit.streamlit.app/)
 [![Jupyter Notebook](https://img.shields.io/badge/📓_Notebook-Open_Code-FF6F00?style=flat-for-the-badge)](Loan_prediction_main.ipynb)
 
 ---
