@@ -1,0 +1,11 @@
+# Requirements for the project
+
+numpy == 1.26.4
+pandas == 2.2.3
+seaborn == 0.13.2
+scikit-learn == 1.5.1
+xgboost == 2.1.1
+matplotlib == 3.10.0
+shap == 0.46.0
+joblib == 1.4.2
+streamlit == 1.40.1
